@@ -1,0 +1,20 @@
+
+.mb-2{
+    width: 300px;
+}
+
+h2{
+    font-family: 'Times New Roman, Calibri, Courier';
+    text-emphasis-color: black;
+    text-size-adjust: 50;
+}
+h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-emphasis-color: black; 
+}
+.darkcolor{
+    background-color: rgb(142, 168, 235) !important;
+}
+.darkfont{
+   color: black !important;
+}

@@ -1,0 +1,64 @@
+h1{
+    
+    color:rgb(26, 93, 89) ;
+}
+body{
+    background-color: rgb(52, 245, 245);
+}
+.mainstuff{
+    color: rgb(42, 46, 165);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.otherstuff{
+    color: blueviolet;
+    font: 200;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    position: relative;
+    margin-top: 5px;
+    /* display: flex; */
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    height: 100px; /* Adjust the height as needed */
+}
+
+      
+.video-container{
+        display:flex; 
+        justify-content: center;
+        align-items: center;
+        /* margin-bottom: 800px; Adjust the margin as needed */
+        position: relative;
+    
+        padding: 3px;
+        /* transform: translate(-50%, -50%); */
+      }
+  
+.tableauPlaceholder{
+    padding-top: 30px;
+    position: relative;
+    /* z-index: 0; */
+    /* display: flex; */
+    justify-content: center;
+    align-items:center;
+    width: 500px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    overflow: hidden; /* Add this line to hide any content that exceeds the dimensions */
+}
+.footer{
+    position:fixed;
+    left:0;
+    bottom:0;
+    width:100%;
+    height: 25px;
+    background-color: aquamarine;
+    color: black;
+    text-align:center;
+
+}
+
